@@ -12,5 +12,5 @@ European Space Agency (ESA)
 European Space Research and Technology Centre (ESTEC)
 oliver.jennrich@esa.int
 
-#### Creative commons attribution (cc-by) licence
+#### Creative commons attribution (cc-by) licence:
 Licensees may copy, distribute, display and perform the work and make derivative works based on it only if they give the author or licensor the credits in the manner specified by these.
